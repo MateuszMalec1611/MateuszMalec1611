@@ -1,4 +1,4 @@
-## 👦 About me
+## 👦 About me.
 
 I'm 20 years old student. I build **open-source** projects. I'm in love with ReactJS and its ecosystem 💛. Still learning and discovering new stuff!
 
