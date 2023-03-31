@@ -4,6 +4,8 @@ I'm 22 years old student. I build **open-source** projects. I'm in love with Rea
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusz-malecc//)](https://www.linkedin.com/in/mateusz-malecc//)
 
+Email: malo007777@gmail.com
+
 ## 🔧 Technologies
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MateuszMalec1611/)
