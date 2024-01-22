@@ -1,10 +1,10 @@
 ## 👦 About me
 
-I'm 22 years old student. I build **open-source** projects. I'm in love with ReactJS and its ecosystem 💛. Still learning and discovering new stuff!
+I'm 23 years old student. I build **open-source** projects. I'm in love with ReactJS and its ecosystem 💛. Still learning and discovering new stuff!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusz-malecc//)](https://www.linkedin.com/in/mateusz-malecc//)
 
-Email: malo007777@gmail.com
+Email: mateusz.malec1611@gmail.com
 
 ## 🔧 Technologies
 
